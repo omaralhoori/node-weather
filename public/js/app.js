@@ -1,5 +1,3 @@
-
-
 const wForm = document.querySelector('form')
 const search = document.querySelector('input')
 const msgOne = document.querySelector('#msg1')
